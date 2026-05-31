@@ -1,0 +1,13 @@
+word1,word2,relation,CBOW,SkipGram,FastText
+umfana,abafana,singular/plural,OOV,OOV,0.4113
+inja,izinja,singular/plural,OOV,OOV,0.5703
+hamba,ukuhamba,verb/infinitive,0.999,0.8346,0.7473
+sebenza,umsebenzi,verb/derived noun,0.9788,0.3811,0.8039
+bonisa,umbonisi,verb/agentive noun,OOV,OOV,0.5804
+isihlahla,izihlahla,singular/plural,OOV,OOV,0.747
+ukudla,isidlo,verbal/meal noun,0.9969,0.7836,0.1455
+ubuhle,obuhle,noun/adjective,OOV,OOV,0.9082
+umfana,amanzi,random,OOV,OOV,0.3823
+inja,imali,random,OOV,OOV,0.474
+ukudla,isikole,random,0.9963,0.4758,0.1526
+hamba,incwadi,random,0.9994,0.7168,0.2854

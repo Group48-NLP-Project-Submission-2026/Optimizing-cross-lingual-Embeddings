@@ -1,0 +1,4 @@
+pair,n_test,before_mean,after_mean,improvement
+eng→zul,15,0.1421,0.4196,0.2775
+eng→sep,15,0.1234,0.4126,0.2893
+eng→tsn,15,0.1636,0.4173,0.2537

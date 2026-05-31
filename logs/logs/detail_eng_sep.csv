@@ -1,0 +1,16 @@
+source,true_target,rank_1,top_5,hit@1,hit@5,hit@10
+rain,pula,timba,"timba, sabcoha, ntombizodwa, saenwa, vuyiseka",False,False,False
+year,ngwaga,nnošinoši,"nnošinoši, kgotsofala, ntshola, sokološe, lehlakore",False,False,False
+house,ntlo,phumule,"phumule, fepile, tlhaele, phorotšeke, fetolele",False,False,False
+person,motho,rofhiwa,"rofhiwa, motšwamahlagading, mofaladi, baratwa, ngwala",False,False,False
+sun,letšatši,mongwenaledi,"mongwenaledi, pipamolomo, tlhalomolekane, mohlomongwe, pampiri",False,False,False
+president,mopresidente,tsebile,"tsebile, inšorentshe, bašomišane, tsebalege, thopile",False,False,False
+woman,mosadi,mongwenaledi,"mongwenaledi, mošupologo, modukologo, basepelakadinao, umfolozi",False,False,False
+animal,phedi,senotlelo,"senotlelo, tlelukhose, haemoglo, phumule, sešole",False,False,False
+bird,nonyane,sepenatšhe,"sepenatšhe, phapoši, nkosazana, phenkgišana, sokološe",False,False,False
+road,tsela,pušoselegae,"pušoselegae, seagamme, sethušagohema, kagodithokgwa, josephine",False,False,False
+rights,ditokelo,bolailwego,"bolailwego, bliki, hlahlilwego, lotiki, boradipolotiki",False,False,False
+food,dijo,pitlagano,"pitlagano, sepelelana, thulaganyo, haemoglo, pitlaga",False,False,False
+man,monna,lewedi,"lewedi, pedi, lesomeseswai, mebedi, palogare",False,False,False
+government,mmušo,kaba,"kaba, thaba, senyakwa, nyakagao, yaba",False,False,False
+law,molao,tikologo,"tikologo, šikinya, naga, ntombizodwa, hlorišwa",False,False,False

@@ -1,0 +1,13 @@
+word1,word2,relation,edit_distance,ngram_overlap,fasttext_sim,skipgram_sim
+umfana,abafana,singular/plural,3,0.2069,0.4113,
+inja,izinja,singular/plural,2,0.4,0.5703,
+hamba,ukuhamba,verb/infinitive,3,0.4,0.7473,0.8346
+sebenza,umsebenzi,verb/derived noun,3,0.4286,0.8039,0.3811
+bonisa,umbonisi,verb/agentive noun,3,0.3333,0.5804,
+isihlahla,izihlahla,singular/plural,1,0.4595,0.747,
+ukudla,isidlo,verbal/meal noun,4,0.0345,0.1455,0.7836
+ubuhle,obuhle,noun/adjective,1,0.5,0.9082,
+umfana,amanzi,random,4,0.0345,0.3823,
+inja,imali,random,4,0.0,0.474,
+ukudla,isikole,random,6,0.0,0.1526,0.4758
+hamba,incwadi,random,6,0.0,0.2854,0.7168

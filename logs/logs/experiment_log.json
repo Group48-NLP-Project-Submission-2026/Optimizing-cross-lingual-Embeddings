@@ -1,0 +1,115 @@
+{
+  "date": "2026-05-31",
+  "seed": 42,
+  "languages": [
+    "zul",
+    "sep",
+    "tsn",
+    "eng"
+  ],
+  "corpus_source": "Vukuzenzele via OPUS",
+  "corpus_files": {
+    "zul": 118,
+    "sep": 117,
+    "tsn": 116,
+    "eng": 118
+  },
+  "corpus_tokens": {
+    "zul": 64270,
+    "sep": 107743,
+    "tsn": 125213,
+    "eng": 80711
+  },
+  "embedding_config": {
+    "vector_size": 100,
+    "window": 5,
+    "min_count": 1,
+    "sg": 1,
+    "negative": 10,
+    "epochs": 20,
+    "workers": 1,
+    "seed": 42,
+    "alpha": 0.025,
+    "min_alpha": 0.0001,
+    "min_n": 2,
+    "max_n": 6
+  },
+  "lexicon_sizes": {
+    "eng_zul": 50,
+    "eng_sep": 50,
+    "eng_tsn": 50
+  },
+  "train_test_split": "70/30",
+  "alignment_strategies": {
+    "S1": "Normalised Procrustes + cosine retrieval",
+    "S2": "Unnormalised Procrustes + cosine retrieval",
+    "S3": "Normalised Procrustes + CSLS retrieval",
+    "S4": "English pivot (indirect zul-sep)",
+    "S5": "Direct isiZulu-Sepedi rotation"
+  },
+  "before_after_alignment": {
+    "eng\u2192zul": {
+      "before": 0.1421,
+      "after": 0.4196,
+      "improvement": 0.2775
+    },
+    "eng\u2192sep": {
+      "before": 0.1234,
+      "after": 0.4126,
+      "improvement": 0.2893
+    },
+    "eng\u2192tsn": {
+      "before": 0.1636,
+      "after": 0.4173,
+      "improvement": 0.2537
+    }
+  },
+  "overfitting_check": {
+    "eng-zul": {
+      "train_after": 0.8423,
+      "test_after": 0.4196
+    },
+    "eng-sep": {
+      "train_after": 0.8701,
+      "test_after": 0.4126
+    },
+    "eng-tsn": {
+      "train_after": 0.8795,
+      "test_after": 0.4173
+    }
+  },
+  "csls_retrieval": {
+    "eng-zul": {
+      "P@1": 0.0,
+      "P@5": 0.0,
+      "P@10": 0.0
+    },
+    "eng-sep": {
+      "P@1": 0.0,
+      "P@5": 0.0,
+      "P@10": 0.0
+    },
+    "eng-tsn": {
+      "P@1": 0.0,
+      "P@5": 0.0,
+      "P@10": 0.0
+    }
+  },
+  "zul_sep_strategy_comparison": {
+    "A_no_alignment_mean": 0.2237,
+    "B_pivot_mean": 0.0215,
+    "C_direct_mean": 0.3944
+  },
+  "pivot_failure_diagnosis": {
+    "mean_zul_to_eng": 0.0658,
+    "mean_sep_to_eng": 0.0862,
+    "conclusion": "Pivot fails because individual alignment precision is insufficient. Rotated vectors do not land near their English counterparts. Low zul_to_eng and sep_to_eng values for most test pairs confirm this."
+  },
+  "morphological_finding": {
+    "fasttext_diff": 0.2907,
+    "cbow_diff": -0.0063,
+    "skipgram_diff": 0.0701,
+    "edit_distance_spearman_rho": -0.7989,
+    "ngram_pearson_r": 0.9025
+  }
+}

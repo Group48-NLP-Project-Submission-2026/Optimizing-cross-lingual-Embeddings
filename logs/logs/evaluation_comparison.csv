@@ -1,0 +1,4 @@
+pair,P@1 standard,P@1 subword,P@5 standard,P@5 subword,P@10 standard,P@10 subword
+eng→zul,0.1373,0.2549,0.1373,0.2549,0.1373,0.2549
+eng→sep,0.26,0.1,0.26,0.12,0.26,0.12
+eng→tsn,0.26,0.02,0.26,0.02,0.26,0.02

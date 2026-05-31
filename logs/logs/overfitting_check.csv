@@ -1,0 +1,7 @@
+pair,split,n_pairs,before_mean,after_mean,improvement
+eng-zul,train,35,0.1607,0.8423,0.6816
+eng-zul,test,15,0.1421,0.4196,0.2775
+eng-sep,train,35,0.2032,0.8701,0.667
+eng-sep,test,15,0.1234,0.4126,0.2893
+eng-tsn,train,35,0.1289,0.8795,0.7506
+eng-tsn,test,15,0.1636,0.4173,0.2537

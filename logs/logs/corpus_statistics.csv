@@ -1,0 +1,5 @@
+language,documents,tokens,vocab_size,ttr,hapax_ratio,rare_leq5_ratio,avg_token_length
+isiZulu,118,65668,21420,0.3262,0.6654,0.9125,7.57
+Sepedi,117,109151,8535,0.0782,0.4861,0.8037,4.28
+Setswana,116,126571,9166,0.0724,0.4916,0.8066,4.24
+English,118,82106,8712,0.1061,0.4509,0.7844,4.96

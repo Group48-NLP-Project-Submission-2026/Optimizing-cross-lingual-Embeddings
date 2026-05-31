@@ -1,0 +1,4 @@
+pair,tfidf_mean_sim,tfidf_std_sim
+eng vs zul,0.1922,0.0455
+eng vs sep,0.1848,0.0433
+eng vs tsn,0.1979,0.0372

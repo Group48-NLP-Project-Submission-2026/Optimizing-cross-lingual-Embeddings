@@ -1,0 +1,13 @@
+word1,word2,relation,edit_distance,ft_similarity
+umfana,abafana,singular/plural,3,0.4113
+inja,izinja,singular/plural,2,0.5703
+hamba,ukuhamba,verb/infinitive,3,0.7473
+sebenza,umsebenzi,verb/derived noun,3,0.8039
+bonisa,umbonisi,verb/agentive noun,3,0.5804
+isihlahla,izihlahla,singular/plural,1,0.747
+ukudla,isidlo,verbal/meal noun,4,0.1455
+ubuhle,obuhle,noun/adjective,1,0.9082
+umfana,amanzi,random,4,0.3823
+inja,imali,random,4,0.474
+ukudla,isikole,random,6,0.1526
+hamba,incwadi,random,6,0.2854

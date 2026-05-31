@@ -1,0 +1,16 @@
+source,true_target,rank_1,top_5,hit@1,hit@5,hit@10
+medicine,umuthi,isayensi,"isayensi, iphoyisa, phoyisa, isishintshe, isipiliyoni",False,False,False
+egg,iqanda,isayensi,"isayensi, yesayensi, insinjana, ugesi, isimungumungwana",False,False,False
+house,indlu,isiyenziwe,"isiyenziwe, renaissance, ihanjisiwe, mbisene, insinjana",False,False,False
+language,ulimi,sobunjiniyela,"sobunjiniyela, umdlavuza, isigilamkhuba, umadonsela, hlasimulisa",False,False,False
+village,ilali,isandulela,"isandulela, iphalamende, isambulela, ishmael, isondele",False,False,False
+food,ukudla,isahlukaniso,"isahlukaniso, okusihlanganisayo, budlelwano, abanomdlandla, esahlukaniso",False,False,False
+law,umthetho,lomhlaba,"lomhlaba, lwawela, inomhlaba, ladilizwa, labelwa",False,False,False
+school,isikole,umalaleveva,"umalaleveva, fall, igalaji, tribunal, iportugal",False,False,False
+work,umsebenzi,izi,"izi, umsizi, usizi, izimbuzi, izimpi",False,False,False
+year,unyaka,ugunya,"ugunya, gunya, umnya, wagunyaza, uyasuka",False,False,False
+day,usuku,uyayihlola,"uyayihlola, igunya, udilika, uyaziqhenya, iwoza",False,False,False
+money,imali,iyisilinganiso,"iyisilinganiso, isilinganiso, isithangami, insinjana, ngesiminyaminya",False,False,False
+fire,umlilo,siyinhlanganisela,"siyinhlanganisela, sahlanganyela, eziyisihlanu, sasingabahlali, elihlanganisiwe",False,False,False
+government,uhulumeni,uyiciko,"uyiciko, limpopo, umnqamulajuqu, limo, lusikhumbuze",False,False,False
+bird,inyoni,innova,"innova, igxambukela, sobunjiniyela, inkomba, inkohla",False,False,False

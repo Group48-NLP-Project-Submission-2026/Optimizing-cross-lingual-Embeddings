@@ -1,0 +1,17 @@
+language,min_count,retained_vocab,retention_pct
+isiZulu,1,21420,100.0
+isiZulu,2,7168,33.5
+isiZulu,5,2330,10.9
+isiZulu,10,1013,4.7
+Sepedi,1,8535,100.0
+Sepedi,2,4386,51.4
+Sepedi,5,1942,22.8
+Sepedi,10,1080,12.7
+Setswana,1,9166,100.0
+Setswana,2,4660,50.8
+Setswana,5,2055,22.4
+Setswana,10,1119,12.2
+English,1,8712,100.0
+English,2,4784,54.9
+English,5,2179,25.0
+English,10,1148,13.2

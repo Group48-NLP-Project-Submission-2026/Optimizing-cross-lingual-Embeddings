@@ -1,0 +1,7 @@
+pair,split,total,in_vocab,oov_dropped,coverage_pct
+eng->zul,train,35,35,0,100.0
+eng->zul,test,15,15,0,100.0
+eng->sep,train,35,35,0,100.0
+eng->sep,test,15,15,0,100.0
+eng->tsn,train,35,35,0,100.0
+eng->tsn,test,15,15,0,100.0

@@ -1,0 +1,16 @@
+source,true_target,rank_1,top_5,hit@1,hit@5,hit@10
+rights,ditshwanelo,molaodi,"molaodi, motlolamolao, mogodisi, molaothe, molakeledi",False,False,False
+day,letsatsi,mmidi,"mmidi, neneketsa, namaosatshere, koleka, netshiya",False,False,False
+work,tiro,busedi,"busedi, tshedimotsetso, boitshimoledi, motsayatshedi, bobueledi",False,False,False
+night,bosigo,motšhotšhisimogolo,"motšhotšhisimogolo, phaposi, gatakake, sibongiseni, phapo",False,False,False
+mother,mma,otara,"otara, mucheka, sikara, va, ara",False,False,False
+community,sechaba,ithekiseditse,"ithekiseditse, kgontshiwa, boradikonteraka, boitshimololedi, itshidisa",False,False,False
+rain,pula,motšhotšhisi,"motšhotšhisi, moagiseterata, mmudubudu, maekerosekoupu, motšhotšhisimogolo",False,False,False
+city,motse,motlakase,"motlakase, thekenoloji, dithekenoloji, potlakisa, tlakase",False,False,False
+education,thuto,itekanetse,"itekanetse, methapo, nhlakanipho, meepo, sentlentle",False,False,False
+fish,tlhapi,akhaonto,"akhaonto, lekwalotumelano, lebantaphetiso, diakhaonto, ketekiwagape",False,False,False
+medicine,kalafi,bomapimpana,"bomapimpana, makgabeadipapetla, bommasepala, amanzimtoti, haemoglobinopathy",False,False,False
+hospital,sepetlele,tekolo,"tekolo, kolobe, lokolotse, lokologe, gakolo",False,False,False
+bread,bogobe,tatelano,"tatelano, phetalano, tsitlolelana, togamaano, ngangisano",False,False,False
+president,moporesitente,mmuso,"mmuso, semmuso, poso, segopotso, tlotlomatso",False,False,False
+moon,ngwedi,mohammedba,"mohammedba, moimana, mmidi, moatefokate, moha",False,False,False

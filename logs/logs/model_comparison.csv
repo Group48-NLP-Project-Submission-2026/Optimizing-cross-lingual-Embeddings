@@ -1,0 +1,10 @@
+pair,src_model,n_test,P@1,P@5,P@10
+eng→zul,CBOW,13,0.0,0.0,0.0
+eng→zul,SkipGram,13,0.0,0.0,0.0
+eng→zul,FastText,15,0.0,0.0,0.0
+eng→sep,CBOW,13,0.0,0.0,0.0
+eng→sep,SkipGram,13,0.0,0.0,0.0
+eng→sep,FastText,15,0.0,0.0,0.0
+eng→tsn,CBOW,10,0.0,0.0,0.0
+eng→tsn,SkipGram,10,0.0,0.0,0.0
+eng→tsn,FastText,15,0.0,0.0,0.0

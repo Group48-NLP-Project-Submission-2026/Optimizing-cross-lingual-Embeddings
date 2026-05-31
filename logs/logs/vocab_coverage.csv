@@ -1,0 +1,5 @@
+language,CBOW_vocab,SkipGram_vocab,FastText_vocab
+isiZulu,21052,21052,21052
+Sepedi,8188,8188,8188
+Setswana,8824,8824,8824
+English,8359,8359,8359

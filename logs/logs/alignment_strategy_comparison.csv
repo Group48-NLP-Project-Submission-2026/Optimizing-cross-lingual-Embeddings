@@ -1,0 +1,7 @@
+pair,strategy,mean_test_sim,std_test_sim
+eng-zul,normalised,0.4196,0.1096
+eng-zul,unnormalised,0.4227,0.1058
+eng-sep,normalised,0.4126,0.107
+eng-sep,unnormalised,0.4015,0.1224
+eng-tsn,normalised,0.4173,0.1268
+eng-tsn,unnormalised,0.4188,0.1221

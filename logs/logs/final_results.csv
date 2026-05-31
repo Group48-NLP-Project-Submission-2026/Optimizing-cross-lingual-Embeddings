@@ -1,0 +1,4 @@
+,language_pair,corpus_tokens,vocab_size,anchor_pairs,P@1,P@5,P@10
+eng→zul,eng→zul,2034,1371,51,0.2549,0.2549,0.2549
+eng→sep,eng→sep,3491,861,50,0.1,0.12,0.12
+eng→tsn,eng→tsn,4817,994,50,0.02,0.02,0.02
